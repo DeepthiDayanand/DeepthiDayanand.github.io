@@ -1,11 +1,34 @@
 ---
-title: "DeepthiDayanand.github.io"
+title: "Deepthi Dayanand"
+image: media/profile.JPG
+toc: false
+about: 
+  id: deepthi-dayanand-header
+  template: trestles
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/deepthi-dayanand/
+    - text: GitHub
+      href: https://github.com/deepthidayanand
+    - text: Email
+      href: mailto:deepthi.bhd@gmail.com
 ---
 
-This is a Quarto website.
+:::{#deepthi-dayanand-header}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+<!-- <div style="text-align: justify">  -->
+Hi there! I'm Deepthi! 
+I’m currently working under Research and Development in Schneider Electric. I completed my Bachelor’s degree in Computer Science and Engineering at PES University.
 
-```{r}
-1 + 1
-```
+This spring, I interned at Schneider Electric as an R&D Intern in the Secure Power team where I worked on research for cloud architecture models and the migration of monolithic legacy code to microservices architecture. 
+In the previous summers, I've spent my time alternating between interning at startups and researching under my university labs.
+
+My research interests are broadly efficieny and sustainability in cloud computing. I've worked on various projects;  you can find a list of my publications here and my resume here.
+
+<!-- </div>  -->
+
+:::
+
+

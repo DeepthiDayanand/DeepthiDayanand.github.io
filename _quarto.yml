@@ -3,18 +3,23 @@ project:
   output-dir: docs
 
 website:
-  title: "DeepthiDayanand.github.io"
+  title: "Deepthi Dayanand"
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+    right:
+      # - href: index.qmd
+      # text: Home
+      # - about.qmd
+      - experience.qmd
+      - projects.qmd
+      - text: Resume
+        href: Resume_DeepthiDayanand.pdf
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

@@ -1,0 +1,37 @@
+---
+title: "Exploratory Data Analysis"
+#description: 
+author:
+  - name: Deepthi Dayanand
+    affiliation: PES University
+    date: 01-01-2024
+    
+categories: [Python] # self-defined categories
+#image: ncv.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+<!-- <div style="text-align: justify">  -->
+A project that performs exploratory data analysis on the movielens dataset. The system leverages historical rating data, user information, and movie metadata to provide personalized movie recommendations. The project includes an analysis of user and movie data, and it compares different recommendation algorithms to improve the relevance of suggestions.
+
+## Project Structure
+
+### Libraries
+The project utilizes Python libraries such as pandas, numpy, scikit-learn, matplotlib, and surprise for data analysis, visualization, and building recommendation algorithms.
+
+###  Data Preprocessing
+Data from different sources such as movie ratings, user information, and movie details are loaded, cleaned, and preprocessed. This includes handling missing values, formatting, and merging datasets.
+
+### Exploratory Data Analysis (EDA)
+- Rating Data: Analyzing the distribution of ratings, average ratings per user, and most frequently rated movies.
+- User Data: Investigating user activity levels and patterns.
+- Movie Data: Identifying the most popular and highest-rated movies, along with genre distribution.
+
+### Collaborative Filtering Techniques
+- User-based Collaborative Filtering: Recommending movies by finding similar users based on their ratings.
+- Item-based Collaborative Filtering: Recommending movies based on similarities between items (movies) rated by users.
+
+<a href="https://github.com/DeepthiDayanand/Exploratory-Data-Analysis" type="button" class="btn btn-outline-primary btn-sm">View Source Code</a>
+
+<!-- </div>  -->
+

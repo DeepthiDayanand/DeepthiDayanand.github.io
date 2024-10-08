@@ -7,6 +7,132 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A Secure Cloud Based Management System for Small Scale Legal Firms\n\n\n\nJava\n\n\nCapstone\n\n\n\n\n\n\n\nDeepthi Dayanand\n\n\n\n\n\n\n\n\n\n\n\n\nExploratory Data Analysis\n\n\n\nPython\n\n\n\n\n\n\n\nDeepthi Dayanand\n\n\n\n\n\n\n\n\n\n\n\n\nNetwork Communication Visualization\n\n\n\nPython\n\n\n\nBuilding a data pipeline that processes network trace data and storing it in a Neo4j graph database to allow for efficient visualization and analysis of network…\n\n\n\nDeepthi Dayanand\n\n\n\n\n\n\n\n\n\n\n\n\nOOPS with Java\n\n\n\nJava\n\n\n\nCoursework I created as a Teaching Assistant for the course Object-Oriented Analysis and Design with Java in PES University.\n\n\n\nDeepthi Dayanand\n\n\n\n\n\n\n\n\n\n\n\n\nSocial Network Analysis\n\n\n\nPython\n\n\n\nAims to apply network analysis techniques to the ‘Murder on the Orient Express’ by Agatha Christie, to explore the relationships between characters and uncover hidden…\n\n\n\nDeepthi Dayanand\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/social_network_analysis/index.html",
+    "href": "projects/social_network_analysis/index.html",
+    "title": "Social Network Analysis",
+    "section": "",
+    "text": "The core of the project involves creating a social graph where nodes represent the characters, and edges represent interactions or relationships between them. The strength and frequency of these relationships will drive the analysis.\n\n\n\nThe graph will then undergo various analyses to measure important network properties such as centrality (which characters are most important), clustering (how tightly connected characters are), community detection (grouping characters), and other network metrics.\n\n\n\nBy comparing the extracted social graph with theoretical network models, the project aims to explore how well the structure of the story matches typical patterns found in real-world or simulated social networks."
+  },
+  {
+    "objectID": "projects/social_network_analysis/index.html#project-goals",
+    "href": "projects/social_network_analysis/index.html#project-goals",
+    "title": "Social Network Analysis",
+    "section": "",
+    "text": "The core of the project involves creating a social graph where nodes represent the characters, and edges represent interactions or relationships between them. The strength and frequency of these relationships will drive the analysis.\n\n\n\nThe graph will then undergo various analyses to measure important network properties such as centrality (which characters are most important), clustering (how tightly connected characters are), community detection (grouping characters), and other network metrics.\n\n\n\nBy comparing the extracted social graph with theoretical network models, the project aims to explore how well the structure of the story matches typical patterns found in real-world or simulated social networks."
+  },
+  {
+    "objectID": "projects/social_network_analysis/index.html#approach",
+    "href": "projects/social_network_analysis/index.html#approach",
+    "title": "Social Network Analysis",
+    "section": "Approach",
+    "text": "Approach\n\nMake a List of Characters in the Novel\nManually identify and extract a list of all characters in the novel. These will form the nodes of the social graph.\n\n\nExtract a Social Graph of the Manually Identified Characters in the Text\nAfter identifying the characters, the next step is to extract their interactions from the text. In a social graph: - Nodes: Represent the characters. - Edges: Represent interactions or relationships between characters (e.g., dialogues, mentions, or encounters in the book). - Edge Weights: Could be added to represent the strength of interactions (e.g., frequency of communication, intensity of the relationship). - The resulting social graph can be represented as an adjacency matrix or an edge list.\n\n\nCalculate the Four Types of Centrality of Main Protagonists\nOnce the social graph is built, use centrality measures to determine which characters are most “central” or influential within the network:\n\nDegree Centrality: Measures the number of direct connections a character has. Characters with high degree centrality are involved with many others.\nBetweenness Centrality: Measures the extent to which a character lies on the shortest paths between others. Characters with high betweenness centrality act as “bridges” in the network.\nCloseness Centrality: Measures how close a character is to all other characters in terms of shortest paths. Characters with high closeness centrality can reach others in fewer steps.\nPageRank: Based on the Google PageRank algorithm, this centrality takes into account not just the number of connections a character has but also the importance of the characters they are connected to.\n\n\n\nDetect Communities\nCommunity detection involves finding clusters of characters that are more densely connected to each other than to the rest of the network. Algorithms like Louvain or Girvan-Newman can be used to automatically detect these communities.\n\n\nCreate Equivalent Generative Models to Compare Against the Social Graph\nTo understand whether the social graph extracted from the novel reflects typical social patterns or is unique to the story, models like Erdős-Rényi (Random Graph), Barabási-Albert (Scale-Free Network), and Watts-Strogatz (Small-World Network) can be used.\nView Source Code"
+  },
+  {
+    "objectID": "projects/exploratory-data-analysis/index.html",
+    "href": "projects/exploratory-data-analysis/index.html",
+    "title": "Exploratory Data Analysis",
+    "section": "",
+    "text": "A project that performs exploratory data analysis on the movielens dataset. The system leverages historical rating data, user information, and movie metadata to provide personalized movie recommendations. The project includes an analysis of user and movie data, and it compares different recommendation algorithms to improve the relevance of suggestions."
+  },
+  {
+    "objectID": "projects/exploratory-data-analysis/index.html#project-structure",
+    "href": "projects/exploratory-data-analysis/index.html#project-structure",
+    "title": "Exploratory Data Analysis",
+    "section": "Project Structure",
+    "text": "Project Structure\n\nLibraries\nThe project utilizes Python libraries such as pandas, numpy, scikit-learn, matplotlib, and surprise for data analysis, visualization, and building recommendation algorithms.\n\n\nData Preprocessing\nData from different sources such as movie ratings, user information, and movie details are loaded, cleaned, and preprocessed. This includes handling missing values, formatting, and merging datasets.\n\n\nExploratory Data Analysis (EDA)\n\nRating Data: Analyzing the distribution of ratings, average ratings per user, and most frequently rated movies.\nUser Data: Investigating user activity levels and patterns.\nMovie Data: Identifying the most popular and highest-rated movies, along with genre distribution.\n\n\n\nCollaborative Filtering Techniques\n\nUser-based Collaborative Filtering: Recommending movies by finding similar users based on their ratings.\nItem-based Collaborative Filtering: Recommending movies based on similarities between items (movies) rated by users.\n\nView Source Code"
+  },
+  {
+    "objectID": "projects/network_communication_visualization/index.html",
+    "href": "projects/network_communication_visualization/index.html",
+    "title": "Network Communication Visualization",
+    "section": "",
+    "text": "This project aims to build a data pipeline that:\n\nprocesses network trace data\nmodels communication between devices (senders and receivers) as a graph in Neo4j,\nestablishes relationships between these devices based on the protocols used (e.g., TCP, UDP, ARP, ICMP),\nenables the visualization and analysis of network traffic to gain insights into network behavior and performance.\n\nPython is chosen as the primary tool to build the data pipeline due to its extensive libraries for handling data (such as pandas for data manipulation), network trace analysis (e.g., scapy for parsing packet data), and graph database interaction (such as py2neo or neo4j-driver for connecting to Neo4j). The code is written in the Jupyter Notebook and the results can be visualized in Neo4j using Cypher SQL.\nView Source Code"
+  },
+  {
+    "objectID": "projects/capstone/index.html",
+    "href": "projects/capstone/index.html",
+    "title": "A Secure Cloud Based Management System for Small Scale Legal Firms",
+    "section": "",
+    "text": "Developed a fullstack cloud-native web application for small scale legal firms deployed on AWS with 3 distributed, efficient microservices. The research outcomes aim to contribute to the overall efficiency and effectiveness of legal practices using cloud computing in the era of technology-driven changes.\n\n\n\n\n\n\nLiterature review\n\n\n\nThe literature review paper for the project can be found here.\n\n\n\nProject Modules\n\nThe main features of this project include microservices that any legal tech corporate company should encompass, security features for gaining user trust, and deploying all of it on the cloud platform as a Saas product for ease of maintenance and cost effective management are the features implemented within the scope of this project.\n\n\n\nProject Modules\n\n\n\nImplementation\n\nThe implementation process is structured into three distinct tiers of production, each catering to essential aspects of the system.\nThe persistence tier, as the first layer, addresses the critical matter of data storage. The data will be stored using file storage and the image of PostgreSQL pulled from Docker will also be used for storage.\nThe subsequent business logic layer accommodates administrative microservices essential for the seamless functioning of the platform. These microservices facilitate data management and execute pivotal tasks to ensure the platform’s consistent operation. Additionally, the layer is fortified by encryption algorithms, which not only enhance data security but also adhere to fundamental encryption principles.\nThe final presentation layer, the third tier, acts as the interface connecting the system to its users. Through well-designed APIs and a web browser interface, legal practitioners gain access to the suite of tools and functionalities offered by our cloud-based management system. This user-centric approach not only enhances user experience but also empowers legal professionals to leverage technology optimally in their practices.\nView Source Code\n\n\n\n\n\n\nProject paper\n\n\n\nThe final paper for the project can be found here."
+  },
+  {
+    "objectID": "projects/oops_with_java/index.html",
+    "href": "projects/oops_with_java/index.html",
+    "title": "OOPS with Java",
+    "section": "",
+    "text": "Use-case Modeling\nClass Diagrams\nActivity and State Diagrams\nMethod Overloading, Constructor Overloading, Composition, and Aggregation\nInheritance and Interfaces\nAbstract Classes, ArrayLists, Linked Lists, and Stacks\nMultithreading and Serialization\nMVC Architecture"
+  },
+  {
+    "objectID": "projects/oops_with_java/index.html#course-structure",
+    "href": "projects/oops_with_java/index.html#course-structure",
+    "title": "OOPS with Java",
+    "section": "",
+    "text": "Use-case Modeling\nClass Diagrams\nActivity and State Diagrams\nMethod Overloading, Constructor Overloading, Composition, and Aggregation\nInheritance and Interfaces\nAbstract Classes, ArrayLists, Linked Lists, and Stacks\nMultithreading and Serialization\nMVC Architecture"
+  },
+  {
+    "objectID": "projects/oops_with_java/index.html#use-case-modeling",
+    "href": "projects/oops_with_java/index.html#use-case-modeling",
+    "title": "OOPS with Java",
+    "section": "Use case Modeling",
+    "text": "Use case Modeling\nUse case modeling in Java is a technique used to capture and define the functional requirements of a system from the perspective of its users (actors). It describes the interactions between external entities (such as users or other systems) and the system to achieve a specific goal. Use case diagrams, which often accompany this modeling, visually represent these interactions using actors, use cases (actions performed by the system), and the relationships between them. This process helps guide the system design and development phases in Java applications by ensuring a clear understanding of user needs and system behaviors.\n\nProblem statement and solution for use case modeling can be found here."
+  },
+  {
+    "objectID": "projects/oops_with_java/index.html#class-diagrams",
+    "href": "projects/oops_with_java/index.html#class-diagrams",
+    "title": "OOPS with Java",
+    "section": "Class Diagrams",
+    "text": "Class Diagrams\nClass diagrams in Java are a type of UML (Unified Modeling Language) diagram that visually represent the structure of a Java application by illustrating the classes, their attributes, methods, and the relationships between them. They help in the design and organization of object-oriented systems by providing a blueprint of how the system’s classes are structured and how they interact.\n\nProblem statement and solution for class diagram can be found here."
+  },
+  {
+    "objectID": "projects/oops_with_java/index.html#activity-and-state-diagrams",
+    "href": "projects/oops_with_java/index.html#activity-and-state-diagrams",
+    "title": "OOPS with Java",
+    "section": "Activity and State Diagrams",
+    "text": "Activity and State Diagrams\n\nActivity Diagram\nActivity diagrams in Java are a type of UML (Unified Modeling Language) diagram that visually represent the flow of control or data within a system, specifically focusing on the sequence of activities or steps in a process. They are particularly useful for modeling the dynamic aspects of a Java application, such as workflows, algorithms, or business processes. Activity diagrams are useful for both high-level system design and detailed algorithmic behavior in Java applications, allowing developers to better understand and communicate the flow of activities.\n\nProblem statement and solution for activity diagrams can be found here.\n\n\n\nState Diagrams\nState diagrams in Java are a type of UML (Unified Modeling Language) diagram used to represent the states and transitions of an object within a Java application. They visually depict how an object behaves in response to events and how it transitions from one state to another. State diagrams are particularly useful for modeling the lifecycle of objects or components that have distinct states, such as a connection, process, or user session.\n\nProblem statement and solution for state diagrams can be found here."
+  },
+  {
+    "objectID": "projects/oops_with_java/index.html#method-overloading-constructor-overloading-composition-and-aggregation",
+    "href": "projects/oops_with_java/index.html#method-overloading-constructor-overloading-composition-and-aggregation",
+    "title": "OOPS with Java",
+    "section": "Method Overloading, Constructor Overloading, Composition, and Aggregation",
+    "text": "Method Overloading, Constructor Overloading, Composition, and Aggregation\n\nMethod Overloading\nMethod overloading in Java allows multiple methods with the same name but different parameter lists (number, type, or order of parameters) to coexist within the same class. It provides flexibility by enabling different ways to call the same method depending on the argument types.\n\nThe problem statement for method overloading in java can be found here.\n\n\n\nConstructor Overloading\nConstructor overloading allows a class to have more than one constructor, each with different parameters. This lets you create objects with different initializations based on the parameters provided when calling the constructor.\n\nThe problem statement for constructor overloading in java can be found here.\n\n\n\nAggregation and Composition\n\nComposition: Composition is a design principle where one class contains objects of another class, indicating a “has-a” relationship. In Java, the lifetime of the composed object is bound to the lifetime of the containing object, meaning the contained object cannot exist independently.\nAggregation: Aggregation is a “has-a” relationship where one class contains a reference to objects of another class, but the contained objects can exist independently. In Java, aggregation represents a weaker relationship compared to composition, as the contained objects can outlive the containing object.\n\n\nThe problem statement for aggregation and composition in java can be found here."
+  },
+  {
+    "objectID": "projects/oops_with_java/index.html#inheritance-and-interfaces",
+    "href": "projects/oops_with_java/index.html#inheritance-and-interfaces",
+    "title": "OOPS with Java",
+    "section": "Inheritance and Interfaces",
+    "text": "Inheritance and Interfaces\n\nInheritance\nInheritance in Java allows a class to inherit properties and methods from another class, promoting code reusability and establishing an “is-a” relationship. The subclass (child) extends the superclass (parent), gaining access to its fields and methods, while also being able to override or add new functionality.\n\nThe problem statement for inheritance in java can be found here.\n\n\n\nInterfaces\nAn interface in Java defines a contract that a class can implement, specifying a set of abstract methods that must be provided by the implementing class. Interfaces enable multiple inheritance of behavior, allowing classes to implement multiple interfaces and adhere to different behaviors.\n\nThe problem statement for interfaces in java can be found here."
+  },
+  {
+    "objectID": "projects/oops_with_java/index.html#abstract-classes-arraylists-linked-lists-and-stacks",
+    "href": "projects/oops_with_java/index.html#abstract-classes-arraylists-linked-lists-and-stacks",
+    "title": "OOPS with Java",
+    "section": "Abstract Classes, ArrayLists, Linked Lists, and Stacks",
+    "text": "Abstract Classes, ArrayLists, Linked Lists, and Stacks\n\n1. Abstract Classes\nAn abstract class in Java is a class that cannot be instantiated on its own and is meant to be subclassed. It can contain both abstract methods (without implementations) and concrete methods (with implementations), providing a common base for subclasses.\n\nThe problem statement for abstract classes in java can be found here.\n\n\n\n2. ArrayLists\nArrayList in Java is a resizable array implementation of the List interface that allows dynamic insertion, deletion, and access of elements. It stores elements in a contiguous block of memory and provides fast random access, but resizing can be costly.\n\nThe problem statement for array lists in java can be found here.\n\n\n\n3. Linked Lists\nLinkedList in Java is a linear data structure that stores elements in nodes, where each node contains a reference to the next (and optionally previous) node. It allows efficient insertions and deletions at any position but slower random access compared to ArrayList.\n\nThe problem statement for linked lists in java can be found here.\n\n\n\n4. Stacks\nA Stack in Java is a data structure that follows the Last-In-First-Out (LIFO) principle, where elements are added and removed from the top of the stack. Common operations include push (add), pop (remove), and peek (view the top element).\n\nThe problem statement for stacks in java can be found here."
+  },
+  {
+    "objectID": "projects/oops_with_java/index.html#lab-8-multithreading-and-serialization",
+    "href": "projects/oops_with_java/index.html#lab-8-multithreading-and-serialization",
+    "title": "OOPS with Java",
+    "section": "Lab 8: Multithreading and Serialization",
+    "text": "Lab 8: Multithreading and Serialization\n\n1. Multithreading\nMultithreading in Java allows multiple threads to execute concurrently within a program, enabling parallelism and more efficient CPU utilization. It is commonly used to perform tasks like background processing, improving application responsiveness, and handling multiple tasks simultaneously.\n\n\n2. Serialization\nSerialization in Java is the process of converting an object into a byte stream, so it can be easily saved to a file or transmitted over a network. The reverse process, deserialization, reconstructs the object from the byte stream, allowing persistence and communication of object states across platforms.\n\nThe problem statement for multithreading and serialization in java can be found here."
+  },
+  {
+    "objectID": "projects/oops_with_java/index.html#mvc-architecture",
+    "href": "projects/oops_with_java/index.html#mvc-architecture",
+    "title": "OOPS with Java",
+    "section": "MVC Architecture",
+    "text": "MVC Architecture\nMVC (Model-View-Controller) architecture is a design pattern commonly used in software development to separate concerns and organize code into three interconnected components:\n\nModel: Represents the application’s data and business logic. It manages the data, handles database interactions, and performs operations independent of the user interface. Changes in the Model often notify the View to update itself.\nView: Responsible for the presentation layer. It displays data from the Model to the user and sends user inputs to the Controller. The View is concerned with how the data is represented but doesn’t handle any business logic.\nController: Acts as an intermediary between the Model and the View. It processes user inputs from the View, updates the Model accordingly, and may trigger changes in the View. The Controller directs the flow of the application based on user interactions.\n\nIn Java, the MVC pattern is widely used in frameworks like Spring MVC and JavaFX to build web and desktop applications. The key advantage of MVC is that it promotes a clear separation of concerns, which enhances maintainability, scalability, and testability of the code.\n\nThe required mini project for the course that uses MVC can be found here.\n\n\n\n\n\n\n\nGitHub Link\n\n\n\nThe source code for the project can be found here."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Deepthi Dayanand",

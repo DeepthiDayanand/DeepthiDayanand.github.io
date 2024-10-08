@@ -1,0 +1,12 @@
+[
+  {
+    "listing": "/projects.html",
+    "items": [
+      "/projects/capstone/index.html",
+      "/projects/exploratory-data-analysis/index.html",
+      "/projects/network_communication_visualization/index.html",
+      "/projects/oops_with_java/index.html",
+      "/projects/social_network_analysis/index.html"
+    ]
+  }
+]

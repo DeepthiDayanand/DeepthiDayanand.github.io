@@ -1,5 +1,5 @@
 ---
-title: "Secure Cloud Based Management System for Small Scale Legal Firms"
+title: "A Secure Cloud Based Management System for Small Scale Legal Firms"
 #description: "Developed a fullstack cloud-native web application for small scale legal firms deployed on AWS with 3 distributed, efficient microservices."
 author:
   - name: Deepthi Dayanand
@@ -7,9 +7,9 @@ author:
     #orcid: 0000-0002-5300-3075
     affiliation: PES University
     #affiliation-url: https://ucsb-meds.github.io/ 
-    #date: 10-07-2024
-categories: [Java] # self-defined categories
-image: capstone.png
+    date: 02-02-2024
+categories: [Java, Capstone] # self-defined categories
+#image: capstone.png
 draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
 ---
 

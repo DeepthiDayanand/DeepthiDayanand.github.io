@@ -8,11 +8,14 @@ about:
   image-shape: round
   image-width: 17em
   links:
-    - text: LinkedIn
+    - icon: linkedin
+      text: LinkedIn
       href: https://www.linkedin.com/in/deepthi-dayanand/
-    - text: GitHub
+    - icon: github
+      text: GitHub
       href: https://github.com/deepthidayanand
-    - text: Email
+    - icon: envelope-fill
+      text: Email
       href: mailto:deepthi.bhd@gmail.com
 ---
 

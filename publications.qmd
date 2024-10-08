@@ -1,0 +1,28 @@
+---
+title: "Publications"
+page-layout: full
+---
+
+<!-- > Check out my [Google Scholar](https://scholar.google.com/citations?user=v7O9-RgAAAAJ&hl=en) for a more updated list of publications. <!-->
+
+**Secure Cloud-based Management System for Legal Firms** \
+_Fifth International Conference on Computing and Network Communications, 2023_ \
+Ayushi Soumya, Bhumika Nayak, **Deepthi Dayanand**, Vaishnavi V B and Venkatesh Prasad \
+<a href="https://link.springer.com/book/9789819745395" type="button" class="btn btn-outline-primary btn-sm">paper</a>
+
+
+**Literature Review of Approaches in Cloud-based Management systems for Legal Firms**\
+_Data Science and Intelligent Computing Techniques, 2023_ \
+Ayushi Soumya, Bhumika Nayak, **Deepthi Dayanand**, Vaishnavi V B and Venkatesh Prasad \
+<a href="https://doi.org/10.56155/978-81-955020-2-8-54" type="button" class="btn btn-outline-primary btn-sm">paper</a>
+
+
+
+
+**Neural Networks for Human-Machine Interface** \
+_Human–Machine Interface Technology Advancements and Applications, Routeledge Taylor & Franncis Group_ \
+**Deepthi Dayanand**, K. Sutejas , Vrishank Shishir, Shobana Padmanabhan, and Murthy Chavali \
+
+<a href="https://www.routledge.com/Human-Machine-Interface-Technology-Advancements-and-Applications/Janapati-Desai-Kulkarni-Tayal/p/book/9781032351520" type="button" class="btn btn-outline-primary btn-sm">book chapter</a>
+
+

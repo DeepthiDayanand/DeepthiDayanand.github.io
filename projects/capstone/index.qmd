@@ -1,0 +1,46 @@
+---
+title: "Secure Cloud Based Management System for Small Scale Legal Firms"
+#description: "Developed a fullstack cloud-native web application for small scale legal firms deployed on AWS with 3 distributed, efficient microservices."
+author:
+  - name: Deepthi Dayanand
+    #url: https://github.com/DeepthiDayanand/Cloud-based-Management-System-for-Legal-Firms
+    #orcid: 0000-0002-5300-3075
+    affiliation: PES University
+    #affiliation-url: https://ucsb-meds.github.io/ 
+    #date: 10-07-2024
+categories: [Java] # self-defined categories
+image: capstone.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+<!-- <div style="text-align: justify">  -->
+Developed a fullstack cloud-native web application for small scale legal firms deployed on AWS with 3 distributed, efficient microservices.
+The research outcomes aim to contribute to the overall efficiency and effectiveness of legal practices using cloud computing in the era of technology-driven changes. 
+
+::: {.callout-note icon=false}
+## Literature review
+The literature review paper for the project can be found [here.](1.pdf)
+:::
+
+<h2> Project Modules </h2>
+The main features of this project include microservices that any legal tech corporate company should encompass, security features for gaining user trust, and deploying all of it on the cloud platform as a Saas product for ease of maintenance and cost effective management are the features implemented within the scope of this project.
+
+![Project Modules](project_modules.png){width=75%}
+
+<h2> Implementation </h2>
+The implementation process is structured into three distinct tiers of production, each catering to essential aspects of the system. 
+
+The persistence tier, as the first layer, addresses the critical matter of data storage. The data will be stored using file storage and the image of PostgreSQL pulled from Docker will also be used for storage.
+
+The subsequent business logic layer accommodates administrative microservices essential for the seamless functioning of the platform. These microservices facilitate data management and execute pivotal tasks to ensure the platform’s consistent operation. Additionally, the layer is fortified by encryption algorithms, which not only enhance data security but also adhere to fundamental encryption principles.
+
+The final presentation layer, the third tier, acts as the interface connecting the system to its users. Through well-designed APIs and a web browser interface, legal practitioners gain access to the suite of tools and functionalities offered by our cloud-based management system. This user-centric approach not only enhances user experience but also empowers legal professionals to leverage technology optimally in their practices.
+
+<a href="https://github.com/DeepthiDayanand/Cloud-based-Management-System-for-Legal-Firms" type="button" class="btn btn-outline-primary btn-sm">View Source Code</a>
+
+::: {.callout-note icon=false}
+## Project paper
+The final paper for the project can be found [here.](2.pdf)
+:::
+
+<!-- </div>  -->

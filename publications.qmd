@@ -23,6 +23,6 @@ Ayushi Soumya, Bhumika Nayak, **Deepthi Dayanand**, Vaishnavi V B and Venkatesh 
 _Human–Machine Interface Technology Advancements and Applications, Routeledge Taylor & Franncis Group_ \
 **Deepthi Dayanand**, K. Sutejas , Vrishank Shishir, Shobana Padmanabhan, and Murthy Chavali \
 
-<a href="https://www.routledge.com/Human-Machine-Interface-Technology-Advancements-and-Applications/Janapati-Desai-Kulkarni-Tayal/p/book/9781032351520" type="button" class="btn btn-outline-primary btn-sm">book chapter</a>
+<a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003326830-1/neural-networks-human%E2%80%93machine-interface-deepthi-dayanand-sutejas-vrishank-shishir-shobana-padmanabhan-murthy-chavali?context=ubx&refId=f9f3dadb-b890-4538-89c2-07c3d8fa87b8" type="button" class="btn btn-outline-primary btn-sm">book chapter</a>
 
 

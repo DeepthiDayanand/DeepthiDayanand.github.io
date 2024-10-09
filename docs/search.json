@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Deepthi Dayanand",
     "section": "",
-    "text": "LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     Email\n  \n\n  \n  \n\nHi there! I’m Deepthi! I’m currently working under Research and Development in Schneider Electric. I completed my Bachelor’s degree in Computer Science and Engineering at PES University.\nThis spring, I interned at Schneider Electric as an R&D Intern in the Secure Power team where I worked on research for cloud architecture models and the migration of monolithic legacy code to microservices architecture. In the previous summers, I’ve spent my time alternating between interning at startups and researching under my university labs.\nMy research interests are broadly efficieny and sustainability in cloud computing. I’ve worked on various projects; you can find a list of my publications and my resume here."
+    "text": "LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     Email\n  \n\n  \n  \n\nHi there! I’m Deepthi! I’m currently working under Research and Development in Schneider Electric. I completed my Bachelor’s degree in Computer Science and Engineering at PES University.\nThis spring, I interned at Schneider Electric as an R&D Intern in the Secure Power team where I worked on research for cloud architecture models and the migration of monolithic legacy code to microservices architecture. In the previous summers, I’ve spent my time alternating between software development at startups and researching under my university labs.\nMy research interests focus on developing efficient and socially conscious products.\nI’ve worked on various projects; you can find a list of my publications and my resume here."
   },
   {
     "objectID": "projects/oops_with_java/index.html",
@@ -145,5 +145,26 @@
     "title": "Publications",
     "section": "",
     "text": "Secure Cloud-based Management System for Legal Firms\nFifth International Conference on Computing and Network Communications, 2023\nAyushi Soumya, Bhumika Nayak, Deepthi Dayanand, Vaishnavi V B and Venkatesh Prasad\npaper\nLiterature Review of Approaches in Cloud-based Management systems for Legal Firms\nData Science and Intelligent Computing Techniques, 2023\nAyushi Soumya, Bhumika Nayak, Deepthi Dayanand, Vaishnavi V B and Venkatesh Prasad\npaper\nNeural Networks for Human-Machine Interface\nHuman–Machine Interface Technology Advancements and Applications, Routeledge Taylor & Franncis Group\nDeepthi Dayanand, K. Sutejas , Vrishank Shishir, Shobana Padmanabhan, and Murthy Chavali\n\nbook chapter"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Deepthi Dayanand",
+    "section": "Education",
+    "text": "Education\nPES University | Bangalore, India\nBachelor of Technology in Computer Science and Engineering"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Deepthi Dayanand",
+    "section": "News",
+    "text": "News\n\nAugust 2024: Joined Schneider Electric as a full time employee under Research and Development!\nJanuary 2024: Started my sixth month internship at Schneider Electric R&D, Bangalore.\nDecember 2023: Presented my Capstone project paper at the CoCoNET 2023 conference in PES University, Bangalore.\nSeptember 2023: I presented my first paper at the ADCIS 2023 conference in BITS Goa, India.\nJune 2023: Started my summer internship with Lensta Technologies.\nMay 2023: Published my first book chapter!\nJuly 2022: I started my six month internship with the Center for Innovation and Entrepreneurship, PES University to gamify and personalize learning coursework.\nJune 2022: Got my first opportunity to engage in research by interning under the Center for Data Science and Applied Machine Learning, PES University."
+  },
+  {
+    "objectID": "index.html#timeline-of-events",
+    "href": "index.html#timeline-of-events",
+    "title": "Deepthi Dayanand",
+    "section": "Timeline of events",
+    "text": "Timeline of events\n\nAugust 2024: Joined Schneider Electric as a full time employee under Research and Development!\nJanuary 2024: Started my sixth month internship at Schneider Electric R&D, Bangalore.\nDecember 2023: Presented my Capstone project paper at the CoCoNET 2023 conference in PES University, Bangalore.\nSeptember 2023: Presented my first paper at the ADCIS 2023 conference in BITS Goa, India.\nJune 2023: Started my summer internship with Lensta Technologies.\nMay 2023: Published my first book chapter!\nJuly 2022: Started my six month internship with the Center for Innovation and Entrepreneurship, PES University to gamify and personalize learning coursework.\nJune 2022: Got my first opportunity to engage in research by interning under the Center for Data Science and Applied Machine Learning, PES University."
   }
 ]

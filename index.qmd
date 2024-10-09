@@ -26,11 +26,34 @@ Hi there! I'm Deepthi!
 I’m currently working under Research and Development in Schneider Electric. I completed my Bachelor’s degree in Computer Science and Engineering at PES University.
 
 This spring, I interned at Schneider Electric as an R&D Intern in the Secure Power team where I worked on research for cloud architecture models and the migration of monolithic legacy code to microservices architecture. 
-In the previous summers, I've spent my time alternating between interning at startups and researching under my university labs.
+In the previous summers, I've spent my time alternating between software development at startups and researching under my university labs.
 
-My research interests are broadly efficieny and sustainability in cloud computing. I've worked on various [projects](https://deepthidayanand.github.io/projects.html);  you can find a list of my [publications](https://deepthidayanand.github.io/publications.html)  and my resume [here](media/Resume_DeepthiDayanand.pdf).
+
+My research interests focus on developing efficient and socially conscious products.
+
+I've worked on various [projects](https://deepthidayanand.github.io/projects.html);  you can find a list of my [publications](https://deepthidayanand.github.io/publications.html)  and my resume [here](media/Resume_DeepthiDayanand.pdf).
 
 <!-- </div>  -->
 
 :::
+
+<br>
+<br>
+
+## Timeline of events 
+
+- **August 2024:** Joined [Schneider Electric](https://www.se.com/ww/en/) as a full time employee under Research and Development! 
+- **January 2024:** Started my sixth month internship at Schneider Electric R&D, Bangalore.
+- **December 2023:** Presented my Capstone project paper at the CoCoNET 2023 conference in PES University, Bangalore.
+- **September 2023:** Presented my first paper at the ADCIS 2023 conference in BITS Goa, India.
+- **June 2023:** Started my summer internship with [Lensta Technologies.](https://givfin.com/)
+- **May 2023:** Published my first book chapter!
+- **July 2022:** Started my six month internship with the [Center for Innovation and Entrepreneurship, PES University](https://cie.pes.edu/) to gamify and personalize learning coursework.
+- **June 2022:** Got my first opportunity to engage in research by interning under the [Center for Data Science and Applied Machine Learning, PES University.](https://research.pes.edu/center-for-data-sciences-and-applied-machine-learning/)
+
+
+## Education
+
+**PES University** | Bangalore, India \
+_Bachelor of Technology in Computer Science and Engineering_ \
 

@@ -117,7 +117,7 @@ A Stack in Java is a data structure that follows the Last-In-First-Out (LIFO) pr
 
 > **The problem statement for stacks in java can be found [here.](https://www.hackerrank.com/contests/ooadj-lab-week-7/challenges/stack-ooadj)**
 
-## Lab 8: Multithreading and Serialization
+## Multithreading and Serialization
 
 ### 1. Multithreading
 Multithreading in Java allows multiple threads to execute concurrently within a program, enabling parallelism and more efficient CPU utilization. It is commonly used to perform tasks like background processing, improving application responsiveness, and handling multiple tasks simultaneously.

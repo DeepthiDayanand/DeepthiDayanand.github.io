@@ -13,7 +13,7 @@ website:
       - projects.qmd
       - publications.qmd
       - text: Resume
-        href: Resume_DeepthiDayanand.pdf
+        href: media/Resume_DeepthiDayanand.pdf
 
 format:
   html:

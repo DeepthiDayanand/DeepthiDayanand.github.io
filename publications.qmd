@@ -7,13 +7,13 @@ page-layout: full
 
 **Secure Cloud-based Management System for Legal Firms** \
 _Fifth International Conference on Computing and Network Communications, 2023_ \
-Ayushi Soumya, Bhumika Nayak, **Deepthi Dayanand**, Vaishnavi V B and Venkatesh Prasad \
+ **Deepthi Dayanand**, Ayushi Soumya, Bhumika Nayak, Vaishnavi V B and Venkatesh Prasad \
 <a href="https://link.springer.com/book/9789819745395" type="button" class="btn btn-outline-primary btn-sm">paper</a>
 
 
 **Literature Review of Approaches in Cloud-based Management systems for Legal Firms**\
 _Data Science and Intelligent Computing Techniques, 2023_ \
-Ayushi Soumya, Bhumika Nayak, **Deepthi Dayanand**, Vaishnavi V B and Venkatesh Prasad \
+ **Deepthi Dayanand**, Ayushi Soumya, Bhumika Nayak, Vaishnavi V B and Venkatesh Prasad \
 <a href="https://doi.org/10.56155/978-81-955020-2-8-54" type="button" class="btn btn-outline-primary btn-sm">paper</a>
 
 

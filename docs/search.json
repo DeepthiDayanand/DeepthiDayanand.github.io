@@ -144,7 +144,7 @@
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Secure Cloud-based Management System for Legal Firms\nFifth International Conference on Computing and Network Communications, 2023\nAyushi Soumya, Bhumika Nayak, Deepthi Dayanand, Vaishnavi V B and Venkatesh Prasad\npaper\nLiterature Review of Approaches in Cloud-based Management systems for Legal Firms\nData Science and Intelligent Computing Techniques, 2023\nAyushi Soumya, Bhumika Nayak, Deepthi Dayanand, Vaishnavi V B and Venkatesh Prasad\npaper\nNeural Networks for Human-Machine Interface\nHuman–Machine Interface Technology Advancements and Applications, Routeledge Taylor & Franncis Group\nDeepthi Dayanand, K. Sutejas , Vrishank Shishir, Shobana Padmanabhan, and Murthy Chavali\n\nbook chapter"
+    "text": "Secure Cloud-based Management System for Legal Firms\nFifth International Conference on Computing and Network Communications, 2023\nDeepthi Dayanand, Ayushi Soumya, Bhumika Nayak, Vaishnavi V B and Venkatesh Prasad\npaper\nLiterature Review of Approaches in Cloud-based Management systems for Legal Firms\nData Science and Intelligent Computing Techniques, 2023\nDeepthi Dayanand, Ayushi Soumya, Bhumika Nayak, Vaishnavi V B and Venkatesh Prasad\npaper\nNeural Networks for Human-Machine Interface\nHuman–Machine Interface Technology Advancements and Applications, Routeledge Taylor & Franncis Group\nDeepthi Dayanand, K. Sutejas , Vrishank Shishir, Shobana Padmanabhan, and Murthy Chavali\n\nbook chapter"
   },
   {
     "objectID": "index.html#education",
@@ -166,5 +166,12 @@
     "title": "Deepthi Dayanand",
     "section": "Timeline of events",
     "text": "Timeline of events\n\nAugust 2024: Joined Schneider Electric as a full time employee under Research and Development!\nJanuary 2024: Started my sixth month internship at Schneider Electric R&D, Bangalore.\nDecember 2023: Presented my Capstone project paper at the CoCoNET 2023 conference in PES University, Bangalore.\nSeptember 2023: Presented my first paper at the ADCIS 2023 conference in BITS Goa, India.\nJune 2023: Started my summer internship with Lensta Technologies.\nMay 2023: Published my first book chapter!\nJuly 2022: Started my six month internship with the Center for Innovation and Entrepreneurship, PES University to gamify and personalize learning coursework.\nJune 2022: Got my first opportunity to engage in research by interning under the Center for Data Science and Applied Machine Learning, PES University."
+  },
+  {
+    "objectID": "projects/oops_with_java/index.html#multithreading-and-serialization",
+    "href": "projects/oops_with_java/index.html#multithreading-and-serialization",
+    "title": "OOPS with Java",
+    "section": "Multithreading and Serialization",
+    "text": "Multithreading and Serialization\n\n1. Multithreading\nMultithreading in Java allows multiple threads to execute concurrently within a program, enabling parallelism and more efficient CPU utilization. It is commonly used to perform tasks like background processing, improving application responsiveness, and handling multiple tasks simultaneously.\n\n\n2. Serialization\nSerialization in Java is the process of converting an object into a byte stream, so it can be easily saved to a file or transmitted over a network. The reverse process, deserialization, reconstructs the object from the byte stream, allowing persistence and communication of object states across platforms.\n\nThe problem statement for multithreading and serialization in java can be found here."
   }
 ]

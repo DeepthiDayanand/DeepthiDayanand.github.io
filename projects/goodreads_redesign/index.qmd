@@ -1,0 +1,66 @@
+---
+title: "Website Redesign"
+description: "Redesigning the Goodreads website and mobile app for enhanced user experience and functionality."
+author:
+  - name: Deepthi Dayanand
+    affiliation: PES University
+    date: 01-01-2024
+    
+categories: [UI/UX] # self-defined categories
+#image: sna.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+---
+
+<!-- <div style="text-align: justify">  -->
+[Goodreads](https://www.goodreads.com/) is a social platform specifically designed for book lovers. It allows users to discover, review, and track books they've read or want to read, and connect with a community of fellow readers. As a bibliophile, this is one of my most visited websites. However, it's UI could benefit from some improvements. I worked on the redesign of the website by focusing on user-centered design, performance improvements, and brand alignment.
+
+Feel free to interact with the [redesigned website](https://www.figma.com/proto/fRWUSNFlP1l9E0q8b90p9x/Goodreads-Website-Redesign?node-id=103-9&node-type=canvas&t=X7DEHOEhKbnkIMhv-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=103%3A9) and play around with the [redesigned mobile application!](https://www.figma.com/proto/aEsv5CvpxiBKaRmWyNUri6/Goodreads-App-Redesign?node-id=11-25&node-type=canvas&t=MVZBkujOFn4u7Qei-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=11%3A39)
+
+## Approach
+
+### 1. Identifying the Need for Redesign
+
+- Outdated Design: The existing design no longer reflected the company’s brand identity or current web trends.
+- Poor User Experience (UX): Users reported difficulty navigating the site, finding relevant information, and interacting with key features.
+- Mobile Responsiveness Issues: The site was not fully optimized for mobile devices, resulting in high bounce rates from mobile users.
+
+### 2. Defining Project Goals
+- Improved UX/UI Design: Create a more intuitive and visually appealing interface to enhance the overall user experience.
+- Mobile Optimization: Ensure the site is fully responsive and accessible on all devices, including smartphones and tablets.
+- Streamlined Content Structure: Organize content in a way that makes it easy to navigate, improving accessibility to important information.
+- Performance Optimization: Reduce load times and improve site speed for better SEO and user retention.
+- Modernization and Brand Alignment: Align the site’s design with current brand guidelines and industry standards, presenting a fresh, modern look.
+
+### 3. Research and Analysis
+
+The redesign started with a comprehensive analysis of the existing site. This included:
+
+- User Feedback: Conducting surveys and analyzing user behavior data to identify pain points.
+- Competitor Analysis: Studying competitors' websites to gain insights into best practices and industry standards.
+- Performance Audits: Using tools like Google Analytics to assess the site’s performance and identify areas for improvement.
+
+### 4.Information Architecture (IA) and Wireframing
+
+Based on the research, the next step was to rethink the structure of the site:
+
+- Site Mapping: The creation of a clear and concise sitemap to define how users will navigate the site.
+- Wireframes: Developing wireframes for key pages to outline the layout, structure, and placement of elements such as navigation menus, content sections, and CTAs (Call to Actions).
+
+### 5. Design and Development
+
+Once the wireframes were approved, the design phase began:
+
+- UI/UX Design: Incorporating modern design trends, such as flat design, minimalism, and ample whitespace to improve readability. The color scheme and typography were also updated to reflect the brand’s personality.
+- Mobile-First Design: Adopting a mobile-first approach, ensuring that the site was designed with mobile users in mind from the outset.
+- Interactive Elements: Adding interactive elements like sliders, hover effects, and animations to enhance engagement and provide visual feedback to users.
+
+## Key Changes and Features
+
+Several key features and improvements were implemented during the redesign:
+
+- Improved Navigation: A simplified navigation structure with clearly labeled categories and subcategories made it easier for users to find what they were looking for.
+- Enhanced User Interface (UI): Modern aesthetics with large visuals, bold fonts, and intuitive buttons created a more engaging experience.
+- Mobile Optimization: The site was redesigned to be fully responsive, improving usability across devices and reducing bounce rates.
+- Clear Calls to Action: Prominent CTAs were strategically placed throughout the site to guide users toward key actions, such as signing up for newsletters or making a purchase.
+
+<!-- </div>  -->

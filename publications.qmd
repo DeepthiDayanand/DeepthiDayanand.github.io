@@ -5,24 +5,23 @@ page-layout: full
 
 <!-- > Check out my [Google Scholar](https://scholar.google.com/citations?user=v7O9-RgAAAAJ&hl=en) for a more updated list of publications. <!-->
 
-**Secure Cloud-based Management System for Legal Firms** \
-_Fifth International Conference on Computing and Network Communications, 2023_ \
- **Deepthi Dayanand**, Ayushi Soumya, Bhumika Nayak, Vaishnavi V B and Venkatesh Prasad \
-<a href="https://link.springer.com/book/9789819745395" type="button" class="btn btn-outline-primary btn-sm">paper</a>
-
-
-**Literature Review of Approaches in Cloud-based Management systems for Legal Firms**\
-_Data Science and Intelligent Computing Techniques, 2023_ \
- **Deepthi Dayanand**, Ayushi Soumya, Bhumika Nayak, Vaishnavi V B and Venkatesh Prasad \
-<a href="https://doi.org/10.56155/978-81-955020-2-8-54" type="button" class="btn btn-outline-primary btn-sm">paper</a>
-
-
-
-
 **Neural Networks for Human-Machine Interface** \
 _Human–Machine Interface Technology Advancements and Applications, Routeledge Taylor & Franncis Group_ \
 **Deepthi Dayanand**, K. Sutejas , Vrishank Shishir, Shobana Padmanabhan, and Murthy Chavali \
 
 <a href="https://www.taylorfrancis.com/chapters/edit/10.1201/9781003326830-1/neural-networks-human%E2%80%93machine-interface-deepthi-dayanand-sutejas-vrishank-shishir-shobana-padmanabhan-murthy-chavali?context=ubx&refId=f9f3dadb-b890-4538-89c2-07c3d8fa87b8" type="button" class="btn btn-outline-primary btn-sm">book chapter</a>
+
+**Literature Review of Approaches in Cloud-based Management systems for Legal Firms**\
+_Data Science and Intelligent Computing Techniques, 2023_ \
+ **Deepthi Dayanand**, Ayushi Soumya, Bhumika Nayak, Vaishnavi V B and Venkatesh Prasad \
+ 
+<a href="https://doi.org/10.56155/978-81-955020-2-8-54" type="button" class="btn btn-outline-primary btn-sm">paper</a>
+
+**Secure Cloud-based Management System for Legal Firms** \
+_Fifth International Conference on Computing and Network Communications, 2023_ \
+ **Deepthi Dayanand**, Ayushi Soumya, Bhumika Nayak, Vaishnavi V B and Venkatesh Prasad \
+ 
+<a href="https://link.springer.com/book/9789819745395" type="button" class="btn btn-outline-primary btn-sm">paper</a>
+
 
 

@@ -43,17 +43,20 @@ I've worked on various [projects](https://deepthidayanand.github.io/projects.htm
 ## Timeline of events 
 
 - **August 2024:** Joined [Schneider Electric](https://www.se.com/ww/en/) as a full time employee under Research and Development! 
-- **January 2024:** Started my sixth month internship at Schneider Electric R&D, Bangalore.
+- **January 2024:** Started my sixth month internship software development at Schneider Electric R&D, Bangalore.
+- **January 2024:** Worked as a Teaching Assistant under [Prof. Priya Badrinath](https://staff.pes.edu/nm1327/) for the 6th-semester course Object-Oriented Analysis and Design with Java for 200+ students.
 - **December 2023:** Presented my Capstone project paper at the CoCoNET 2023 conference in PES University, Bangalore.
-- **September 2023:** Presented my first paper at the ADCIS 2023 conference in BITS Goa, India.
-- **June 2023:** Started my summer internship with [Lensta Technologies.](https://givfin.com/)
-- **May 2023:** Published my first book chapter!
-- **July 2022:** Started my six month internship with the [Center for Innovation and Entrepreneurship, PES University](https://cie.pes.edu/) to gamify and personalize learning coursework.
+- **September 2023:** Presented my first paper at the ADCIS 2023 conference in BITS Goa, India!
+- **June 2023:** Started my summer software development internship with [Lensta Technologies.](https://givfin.com/)
+- **May 2023:** Published my first [book chapter on Neural Networks for Human–Machine Interface](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003326830-1/neural-networks-human%E2%80%93machine-interface-deepthi-dayanand-sutejas-vrishank-shishir-shobana-padmanabhan-murthy-chavali?context=ubx&refId=f9f3dadb-b890-4538-89c2-07c3d8fa87b8) with Taylor & Francis Group.
+- **August 2022:**Became editor and head writer of the [PES Newsletter](https://cie.pes.edu/newsletter/), overseeing a team of 20+ interdisciplinary members for 3500+ student audience.
+- **July 2022:** Started my six month internship with the [Center for Innovation and Entrepreneurship, PES University](https://cie.pes.edu/) to gamify and personalize learning coursework. Read more about the project [here.](https://cie.pes.edu/icl-conference-2022/)
 - **June 2022:** Got my first opportunity to engage in research by interning under the [Center for Data Science and Applied Machine Learning, PES University.](https://research.pes.edu/center-for-data-sciences-and-applied-machine-learning/)
+- **June 2020:** Taught my first class of 15 students after becoming a certified yoga instructor!
 
 
 ## Education
 
 **PES University** | Bangalore, India \
-_Bachelor of Technology in Computer Science and Engineering_ \
+_Bachelor of Technology in Computer Science and Engineering (2020 - 2024)_ \
 

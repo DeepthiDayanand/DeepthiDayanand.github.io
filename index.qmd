@@ -16,7 +16,7 @@ about:
       href: https://github.com/deepthidayanand
     - icon: envelope-fill
       text: Email
-      href: mailto:deepthi.bhd@gmail.com
+      href: mailto:deepthiidayanand@gmail.com
 ---
 
 :::{#deepthi-dayanand-header}

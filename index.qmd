@@ -23,7 +23,7 @@ about:
 
 <!-- <div style="text-align: justify">  -->
 Hi there! I'm Deepthi! 
-I’m currently working under Research and Development in Schneider Electric. I completed my Bachelor’s degree in Computer Science and Engineering at PES University.
+I work in Research and Development in Schneider Electric. I completed my Bachelor’s degree in Computer Science and Engineering at PES University.
 
 This spring, I interned at Schneider Electric as an R&D Intern in the Secure Power team where I worked on research for cloud architecture models and the migration of monolithic legacy code to microservices architecture. 
 In the previous summers, I've spent my time alternating between software development at startups and researching under my university labs.

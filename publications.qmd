@@ -16,12 +16,15 @@ _Data Science and Intelligent Computing Techniques, 2023_ \
  **Deepthi Dayanand**, Ayushi Soumya, Bhumika Nayak, Vaishnavi V B and Venkatesh Prasad \
  
 <a href="https://doi.org/10.56155/978-81-955020-2-8-54" type="button" class="btn btn-outline-primary btn-sm">paper</a>
+<a href=media/paper1.pdf type="button" class="btn btn-outline-primary btn-sm">pdf</a>
+
 
 **Secure Cloud-based Management System for Legal Firms** \
 _Fifth International Conference on Computing and Network Communications, 2023_ \
  **Deepthi Dayanand**, Ayushi Soumya, Bhumika Nayak, Vaishnavi V B and Venkatesh Prasad \
  
-<a href="https://link.springer.com/book/9789819745395" type="button" class="btn btn-outline-primary btn-sm">paper</a>
+<a href="https://link.springer.com/book/9789819745395" type="button" class="btn btn-outline-primary btn-sm">paper</a> 
+<a href=media/paper2.pdf type="button" class="btn btn-outline-primary btn-sm">pdf</a>
 
 
 

@@ -25,11 +25,11 @@ about:
 Hi there! I'm Deepthi! 
 I work in Research and Development in Schneider Electric. I completed my Bachelor’s degree in Computer Science and Engineering at PES University.
 
-This spring, I interned at Schneider Electric as an R&D Intern in the Secure Power team where I worked on research for cloud architecture models and the migration of monolithic legacy code to microservices architecture. 
+This spring, I interned at Schneider Electric as an R&D Intern in the Secure Power team where I worked on the migration of monolithic legacy code to microservices architecture. I also partook in research for cloud architecture models and the environmental impact of resource group deployments within the context of green software.
 In the previous summers, I've spent my time alternating between software development at startups and researching under my university labs.
 
 
-My research interests focus on developing efficient and socially conscious products.
+My research interests focus on developing efficient, sustainable and socially conscious products.
 
 I've worked on various [projects](https://deepthidayanand.github.io/projects.html);  you can find a list of my [publications](https://deepthidayanand.github.io/publications.html)  and my resume [here](media/Resume_DeepthiDayanand.pdf).
 

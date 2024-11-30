@@ -25,6 +25,7 @@ about:
 Hi there! I'm Deepthi! 
 I work in Research and Development in Schneider Electric. I completed my Bachelor’s degree in Computer Science and Engineering at PES University.
 
+I'm currently researching environmental impacts of software deployments within the context of green sustainable software.
 This spring, I interned at Schneider Electric as an R&D Intern in the Secure Power team where I worked on the migration of monolithic legacy code to microservices architecture. I also partook in research for cloud architecture models and the environmental impact of resource group deployments within the context of green software.
 In the previous summers, I've spent my time alternating between software development at startups and researching under my university labs.
 

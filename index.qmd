@@ -23,16 +23,12 @@ about:
 
 <!-- <div style="text-align: justify">  -->
 Hi there! I'm Deepthi! 
-I work in Research and Development in Schneider Electric. I completed my Bachelor’s degree in Computer Science and Engineering at PES University.
+I'm a Computer Science Masters student from University of California, Riverside. My interests focus on developing efficient, sustainable and socially conscious products. I work on distributed data pipelines and building software frameworks and methods that push efficiency further.
 
-I'm currently researching environmental impacts of software deployments within the context of green sustainable software.
+- The past two years, I worked at Schneider Electric in Research and Development in the Secure Power team where I partook in research for cloud architecture models and the environmental impact of resource group deployments within the context of green software. I worked on large scale deployments integrating AI capabilities and ML models to enhance system intelligence.
+- In my previous summers, I've spent my time alternating between software development at startups and researching under my university labs.
 
-- This spring, I worked at Schneider Electric as an R&D Intern in the Secure Power team where I partook in research for cloud architecture models and the environmental impact of resource group deployments within the context of green software.
-- In the previous summers, I've spent my time alternating between software development at startups and researching under my university labs.
-
-My aspiration is to specialize in software engineering to bridge the gap between research and application, pushing the boundaries of what is feasible in computational technology. While research gives me fulfillment, serving a social cause gives me purpose. 
-
-My research interests focus on developing efficient, sustainable and socially conscious products.
+I believe in taking end to end ownership of my software projects; I work in all - product, design, and development. 
 
 I've worked on various [projects](https://deepthidayanand.github.io/projects.html);  you can find a list of my [publications](https://deepthidayanand.github.io/publications.html)  and my resume [here](media/Resume_DeepthiDayanand.pdf).
 

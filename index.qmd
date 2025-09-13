@@ -41,7 +41,9 @@ I've worked on various [projects](https://deepthidayanand.github.io/projects.htm
 
 ## Timeline of events 
 
-- **August 2024:** Joined [Schneider Electric](https://www.se.com/ww/en/) as a full time employee under Research and Development! 
+- **September 2025:** Starting my Masters degree in Computer Science from the University of California, Riverside!
+- **March 2025:** Received admits from UC Riverside, Virginia Tech, and CMU iii
+- **August 2024:** Joined [Schneider Electric](https://www.se.com/ww/en/) as a full time employee under Research and Development.
 - **January 2024:** Started my sixth month internship software development at Schneider Electric R&D, Bangalore.
 - **January 2024:** Worked as a Teaching Assistant under [Prof. Priya Badrinath](https://staff.pes.edu/nm1327/) for the 6th-semester course Object-Oriented Analysis and Design with Java for 200+ students.
 - **December 2023:** Presented my Capstone project paper at the CoCoNET 2023 conference in PES University, Bangalore.
@@ -55,6 +57,8 @@ I've worked on various [projects](https://deepthidayanand.github.io/projects.htm
 
 
 ## Education
+**University of California, Riverside** | Riverside, California \
+_Master of Science in Computer Science (2025 - 2027)_ \
 
 **PES University** | Bangalore, India \
 _Bachelor of Technology in Computer Science and Engineering (2020 - 2024)_ \
